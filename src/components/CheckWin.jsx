@@ -11,7 +11,7 @@ else if(CheckWin() === 'lose'){
    message = 'Sorry you lose a game'
    setPlayable(false)
 }
-else{
+else{ 
     message = 'Play On'
    setPlayable(true)
 
